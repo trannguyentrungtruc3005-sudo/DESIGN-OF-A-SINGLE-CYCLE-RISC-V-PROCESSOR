@@ -1,0 +1,1 @@
+module memdel(    input  logic        i_reset,    input  logic [31:0] x,    output logic [31:0] y);    assign y = (!i_reset) ? 32'h0000_0000 : x;endmodule

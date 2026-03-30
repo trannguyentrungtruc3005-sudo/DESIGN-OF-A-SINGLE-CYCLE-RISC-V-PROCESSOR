@@ -6,7 +6,8 @@ cấu hình chỉ đọc để lưu trữ instruction memory, và một cho phé
 Thiết kế phải đáp ứng các yêu cầu của milestone và sẽ được kiểm tra bằng cả bộ test sinh viên
 tự xây dựng và bộ testbench đầy đủ trên máy chủ DOELAB.
 
-Overview
+Overview:
+
 Thiết kế bộ xử lý tuân theo kiến trúc RV32I đơn chu kỳ chuẩn như đã được thảo luận trong
 các bài giảng và được minh họa trong Hình 1 của tài liệu đặc tả Milestone 2. Kiến trúc này bao
 gồm các khối chức năng chính sau:

@@ -24,3 +24,5 @@ giai đoạn: Fetch (lấy lệnh), Decode (giải mã), Execute (thực thi), M
 nhớ) và Write-back (ghi ngược). LSU quản lý việc truy cập đến cả bộ nhớ dữ liệu 2KiB và các
 thiết bị ngoại vi được ánh xạ bộ nhớ theo đúng các vùng địa chỉ đã được quy định trong bảng
 ánh xạ bộ nhớ.
+
+Để biết thêm chi tiết vui lòng xem và tải file pdf !
